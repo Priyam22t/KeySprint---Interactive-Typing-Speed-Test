@@ -6,7 +6,7 @@ KeySprint is a modern, interactive typing speed test web application built using
 
 ## 📌 Project Summary
 
-KeySprint allows users to practice and evaluate their typing skills through dynamically generated typing content. The app focuses on UI clarity, real-time feedback, and usability. It simulates real typing platforms by generating random paragraphs, tracking user input, and displaying performance metrics visually.
+KeySprint allows users to practice and evaluate their typing skills through dynamically generated typing content. The app focuses on UI clarity, real-time feedback, and usability. It simlates real typing platforms by generating random paragraphs, tracking user input, and displaying performance metrics visually.
 
 ---
 
